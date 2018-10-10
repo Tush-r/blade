@@ -73,7 +73,7 @@ Create a basic `Maven` project
 or `Gradle`:
 
 ```sh
-compile 'com.bladejava:blade-mvc:2.0.11.ALPHAE'
+compile 'com.bladejava:blade-mvc:2.0.11.ALPHA'
 ```
 
 Write `main` method, try `Hello World`：
